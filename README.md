@@ -1,5 +1,9 @@
-# 💫 I AM A SOFTWARE ENGINEER
-I' AM CURRENTLY SEEKING KNOWLEDGE 
+<p align="center">
+  <img src="https://github.com/Krishnaumarani1066/Krishnaumarani1066/issues/1#issue-3476634834" alt="Krishna Umarani" width="170" style="border-radius:50%; box-shadow:0 0 25px rgba(0,200,255,0.9);">
+</p>
+
+<h1 align="center">🚀 SOFTWARE ENGINEER | LIFELONG LEARNER</h1>
+<p align="center"><i>Building, Breaking & Learning — One Line of Code at a Time</i></p>
 
 
 ## 🌐 Socials:

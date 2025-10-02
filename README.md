@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/139536099?v=4" alt="Krishna Umarani" width="170" style="border-radius:50%; box-shadow:0 0 25px rgba(0,200,255,0.9);">
-</p>
-
 <h1 align="center">🚀 SOFTWARE ENGINEER | LIFELONG LEARNER</h1>
 <p align="center"><i>Building, Breaking & Learning — One Line of Code at a Time</i></p>
 

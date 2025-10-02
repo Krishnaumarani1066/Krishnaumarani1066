@@ -1,5 +1,5 @@
-# 💫 About Me:
-I' am currently learning
+# 💫 I AM A SOFTWARE ENGINEER
+I' AM CURRENTLY SEEKING KNOWLEDGE 
 
 
 ## 🌐 Socials:

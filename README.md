@@ -1,4 +1,4 @@
-<h1 align="center">🚀 SOFTWARE ENGINEER | LIFELONG LEARNER</h1>
+<h1 align="center">🚀 SOFTWARE ENGINEER | ASSET HOLDER</h1>
 <p align="center"><i>Building, Breaking & Learning — One Line of Code at a Time</i></p>
 
 ---

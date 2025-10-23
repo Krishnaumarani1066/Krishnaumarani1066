@@ -38,7 +38,18 @@
   <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi" />
   <img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white" />
+</p>                                                      
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnaumarani1066&theme=vue&hide_border=false&include_all_commits=false&count_private=false" />
 </p>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=krishnaumarani1066&theme=vue&hide_border=false" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaumarani1066&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+        
 
 <p align="center">
   <!-- Cloud & DevOps -->
@@ -60,17 +71,7 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnaumarani1066&theme=vue&hide_border=false&include_all_commits=false&count_private=false" />
-</p>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=krishnaumarani1066&theme=vue&hide_border=false" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaumarani1066&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
-
+                                                                                                             
 ---
 
 ## 🏆 GitHub Trophies

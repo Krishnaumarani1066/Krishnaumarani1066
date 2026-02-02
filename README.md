@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+at+the+intersection+of;Software+Development+%2B+Web+%2B+AI;Creating+scalable+applications;Real-world+problem+solving+through+code" alt="Typing Animation" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+at+the+intersection+of;AR+%2B+Computer+Vision+%2B+Web;Shipping+browser-first+experiences;Production-ready+ML+applications" alt="Typing Animation" />
 
 </div>
 

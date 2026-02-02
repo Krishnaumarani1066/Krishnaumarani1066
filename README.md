@@ -24,11 +24,12 @@
 
 ### ABOUT
 
-I design accessible augmented reality (AR) experiences and computer vision applications that run entirely in the browser—no heavy installations required, just open and interact. My work emphasizes practical, real-world solutions that make technology intuitive and inclusive.
+I’m a Computer Science Engineering student passionate about building accessible and user-friendly technology. I enjoy working on web-based applications and computer vision projects that solve real-world problems and improve usability for everyday users.
 
-Currently, I’m developing AR-based assistive technologies, including a sign language tutor and cognitive training tools for Alzheimer's patients. Outside of coding, I direct short films, exploring narrative-first storytelling and creative expression.
+I’m currently exploring projects in AR, AI/ML, and assistive technologies, with a strong interest in applying these skills to healthcare and education domains. I believe in learning by building and continuously improving through hands-on experience.
 
-Core Competencies: Python • JavaScript • Java • React • TensorFlow • OpenCV • Mediapipe • Docker • WebXR
+Core Skills:
+Python • JavaScript • Java • React • TensorFlow • OpenCV • MediaPipe • Docker • Web Technologies
 
 <br />
 
